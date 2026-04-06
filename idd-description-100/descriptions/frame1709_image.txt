@@ -1,0 +1,6 @@
+{
+    "Traffic_Flow": "The image shows a road with a bridge in the background, and there are no visible vehicles or traffic. The road appears to be clear and free of congestion. Based on the image, it seems that you can maintain your speed without any obstructions or delays.",
+    "Road_Layout": "The road ahead appears to be a straight road with no visible curves or intersections. It seems to be a clear path for the vehicle in the image.",
+    "Navigation_Clues": "In the image, there are no visible signs indicating 'One Way', 'No Entry', or directional signs. The scene shows a road with a bridge, a clear sky, and some roadside objects. The road appears to be drivable, and there are no signs that would affect your route in the given context.",
+    "Safe_Stop_Zone": "The image shows a road with a bridge in the background. The road shoulders are visible and appear to be wide enough to accommodate a vehicle. However, without knowing the specific road conditions or the presence of any obstacles, it's difficult to determine the best spot to pull over safely in the next 10 seconds. It's always advisable to pull over in a well-lit, visible area away from traffic. If you're in a foreign country, it's also important to be aware of local traffic laws and road conditions."
+}

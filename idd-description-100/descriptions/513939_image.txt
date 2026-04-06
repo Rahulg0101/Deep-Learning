@@ -1,0 +1,6 @@
+{
+    "Traffic_Flow": "The image shows a highway with multiple lanes, and there are no visible vehicles on the road. The traffic appears to be moving smoothly and without congestion. Based on the image, it seems that you can maintain your speed without any obstructions or delays.",
+    "Road_Layout": "The road ahead appears to be a straight road with no visible curves or intersections. The road extends into the distance, and there are no indications of a change in direction or a junction.",
+    "Navigation_Clues": "In the image, there are no visible signs indicating 'One Way', 'No Entry', or directional signs. The scene shows a road with a clear sky, and there are no signs that provide information about the direction of traffic or restrictions on entry. The focus of the image is on the road itself and the surrounding environment.",
+    "Safe_Stop_Zone": "The image shows a highway with multiple lanes. If you need to pull over safely in the next 10 seconds, the best spot would be the shoulder closest to you, as it is the most immediate and accessible. The road shoulders appear to be wide and well-maintained, providing ample space for vehicles to safely pull over. There are no visible obstacles or hazards on the shoulders that would prevent a safe pull-over."
+}

@@ -1,0 +1,6 @@
+{
+    "Traffic_Flow": "The image shows a road with a rocky wall on one side and a building on the other. There are no visible vehicles or traffic, and the road appears to be clear and unobstructed. The overall flow of traffic seems to be smooth and uncongested. Based on the image, it seems that you can maintain your speed without any obstructions or traffic.",
+    "Road_Layout": "The road ahead appears to be a straight road with no visible curves or intersections. It seems to be a clear path for vehicles to follow.",
+    "Navigation_Clues": "In the image provided, there are no visible signs indicating 'One Way', 'No Entry', or directional signs. The scene appears to be a quiet, possibly rural area with a rocky outcropping and a path leading towards it. The sky is overcast, and there are no clear indications of roadside objects or any other signs that would affect your route.",
+    "Safe_Stop_Zone": "The image shows a road with a rocky area on the right side. If you need to pull over safely in the next 10 seconds, the best spot would be to the left of the rocky area, as it appears to be a more stable and flat surface. The road shoulders are not clearly visible, but the rocky area suggests that the right shoulder might be uneven or unstable, which could be dangerous for a vehicle to pull over onto."
+}
